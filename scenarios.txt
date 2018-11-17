@@ -4,7 +4,7 @@
 2018-10-30
 2018-11-02
 2018-11-03
-2018-11-11		
+2018-11-11		To be updated
 2018-11-14		Vision and Lidar with good lighting conditions (With GT)
 2018-11-15		Low Light in half environment (With GT)
 2018-11-17		Sensor Complementary scenario 3 rooms; Dynamic bag (No GT)
